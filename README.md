@@ -9,3 +9,6 @@ Fork 이후 Upstream 브랜치가 업데이트 되면 Pull Request 시 어떤 �
 
 - 03.27 01:20 
 (재훈) Upstream 브랜치 수정 후 push
+
+- 03.27 01:44
+(재훈) upstream 수정
