@@ -18,3 +18,6 @@ Fork 이후 Upstream 브랜치가 업데이트 되면 Pull Request 시 어떤 �
 
 - 03.31 15:03
 (재훈) branch_A 생성 후 main 으로 Merge
+
+- 15:04
+(재훈) 한번 더 branch_A 로 커밋
