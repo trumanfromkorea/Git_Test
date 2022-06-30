@@ -1,3 +1,5 @@
 Rebase Test
 
 rebase test at main
+rebase test at branch test/rebase
+rebase test 3 at branch test/rebase
