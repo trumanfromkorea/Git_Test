@@ -23,3 +23,5 @@ Fork 이후 Upstream 브랜치가 업데이트 되면 Pull Request 시 어떤 �
 (재훈) branch_A 에서 커밋 후 main 에서 다른 내용 커밋
 - 15:04
 (재훈) 한번 더 branch_A 로 커밋
+
+rebase test 4 on readme at main
